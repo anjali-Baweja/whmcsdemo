@@ -1,3 +1,3 @@
 <?php
-echo 'Main index file';
+echo 'test branch index file';
 ?>
