@@ -1,4 +1,5 @@
 <?php
+echo 'API url';
 $url = 'http://185.209.160.26:9091/API';
 $password = 'V7Gam3y9Wg';
 
